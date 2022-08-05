@@ -1,0 +1,9 @@
+1 - Identificar peças 
+2 - Peça com peso superior 100g = sim = cadastrar 
+3 - Peça com peso inferior 100g = não cadastrar ( exibir sms de error por peso superior ao suportado)
+4 - Definir capacidade que a caixa de compartimento suporta
+5 - Se a capacidade colocada na caixa for até 10un = sim = cadastrar
+6 - Se a capacidade colocada na caixa for acima de 10un = não cadastrar (informando capacidade insuficiente)
+7 - Definir quantidade min de  caracteres no nome de cada peça = 3
+8 - Se o nome tiver + que 3 caracteres = sim cadastrar
+9 - Se o nome tiver - que 3 caracteres = nçao cadstrar (mostrar sms "erro nome da peça")
